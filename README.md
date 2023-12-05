@@ -51,4 +51,4 @@
 3.コピーしたいガイドの項目にカーソルを合わせます。![](select_td.png)
 1. コピーします。<td>...</td>にカーソルを合わせてコピーを選択します。![](copy_td_element.png)
 2. 一旦メモ帳などに貼り付けます。
-3. メモ帳でコピーしたときに付いてきた <td>と</td>を削除します。例えばコピーしたものが `<td>[<a href="../guide/gsheets/index.html#3">ガイドシート</a>]</td>`だった場合、 `[<a href="../guide/gsheets/index.html#3">ガイドシート</a>]`になるようにします。
+3. メモ帳でコピーしたときに付いてきた `<td>`と`</td>`を削除します。例えばコピーしたものが `<td>[<a href="../guide/gsheets/index.html#3">ガイドシート</a>]</td>`だった場合、 `[<a href="../guide/gsheets/index.html#3">ガイドシート</a>]`になるようにします。
